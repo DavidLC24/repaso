@@ -9,5 +9,5 @@ public class Book {
     private Long isbn;
     private String title;
     private int year;
-    private Autor[] autors;
+    private Author[] authors;
 }
